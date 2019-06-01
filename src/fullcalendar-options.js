@@ -131,7 +131,8 @@ export const INPUT_DEFS = {
   resourcesInitiallyExpanded: {},
   slotWidth: {},
   datesAboveResources: {},
-  googleCalendarApiKey: {}
+  googleCalendarApiKey: {},
+  refetchResourcesOnNavigate: {}
 }
 
 export const EVENT_NAMES = [
